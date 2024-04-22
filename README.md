@@ -4,6 +4,9 @@ For this project, you design the tables to hold the data from the CSV files, imp
 **Data Modeling**
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables
 
+![ERD screen shot](https://github.com/Kidaha12/sql-challenge/assets/157655615/6dd4b36b-ac98-41ba-aea2-b5a3012ce9fe)
+
+
 **Data Engineering**
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
